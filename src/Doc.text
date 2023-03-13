@@ -1,0 +1,13 @@
+It use to manage application state in efficient way.
+->Configure redux store was too complicated
+->Lot of package required to add in order to make redux work.
+->Redux requires too much boilerplate code
+npm i @reduxjs/toolkit
+
+redux toolkit you need to give reducer function and initial state
+
+->npm i react-redux
+
+->The scope attribute specifies whether a header cell is a header for a column, row, or group of columns or rows. 
+
+npm install react-toastify@8.0.3
